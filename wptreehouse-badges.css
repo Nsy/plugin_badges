@@ -1,0 +1,43 @@
+h3 {
+	color: #F67823;
+}
+.wptreehouse-badges li {
+	/*overflow:hidden;*/
+}
+.wptreehouse-badges li ul {
+	 float: left;
+	 padding: 5px;
+
+}
+.wptreehouse-badges li ul li {
+       display:inline-block;
+       /*float: left;*/
+        color:white;
+	margin-left: 20px;
+}
+
+.wptreehouse-badges li ul a {
+	color: #F67823 !important;
+	margin-left: 15px;
+}
+
+.badge-name {
+   text-transform: uppercase;
+}
+
+.clear {
+  clear: both;
+  text-align: center;
+}
+
+/*front end*/
+
+.big_img {
+	width: 40px;
+	height: 40px;
+}
+
+.small_img {
+	width: 30px;
+	height: 32px;
+}
